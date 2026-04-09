@@ -3,7 +3,7 @@
  
 [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/AutoFilterXL/total.svg)]() 
 
-[Nhấn tải AutoFilterXL]() 
+[Nhấn tải AutoFilterXL](https://github.com/SanbiVN/AutoFilterXL/releases) 
 
 
 Hai hàm bổ trợ lọc dựa vào Auto Filter và Advanced Filter của Excel.
